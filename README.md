@@ -1,10 +1,3 @@
-  _____ _                 _       _                 
- / ____| |               | |     | |                
-| |    | | ___  _   _  __| | __ _| |_ ___  _ __ ___ 
-| |    | |/ _ \| | | |/ _` |/ _` | __/ _ \| '__/ __|
-| |____| | (_) | |_| | (_| | (_| | || (_) | |  \__ \
- \_____|_|\___/ \__,_|\__,_|\__,_|\__\___/|_|  |___/
-
 # 🚀 Cloudflare Minecraft SRV Creator
 
 Um script para criar automaticamente registros **SRV de Minecraft** usando a API da Cloudflare.  
