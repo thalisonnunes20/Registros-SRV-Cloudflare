@@ -31,8 +31,8 @@ Ideal para quem precisa gerar vários SRVs rapidamente, com portas sequenciais, 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/thalisonnunes20/Criar-Varios-SRV-Cloudflare
-cd Criar-Varios-SRV-Cloudflare
+git clone https://github.com/thalisonnunes20/Registros-SRV-Cloudflare
+cd Registros-SRV-Cloudflare
 ```
 ```bash
 chmod +x script.sh
