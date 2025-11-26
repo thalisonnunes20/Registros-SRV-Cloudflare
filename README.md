@@ -32,9 +32,16 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/thalisonnunes20/Registros-SRV-Cloudflare
+```
+
+```bash
 cd Registros-SRV-Cloudflare
 ```
+
 ```bash
 chmod +x script.sh
-./script.sh
+```
+
+```bash
+sudo ./script.sh
 ```
